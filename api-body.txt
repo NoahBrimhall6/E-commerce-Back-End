@@ -1,0 +1,15 @@
+{
+	"category_name": "book"
+}
+
+{
+	"product_name": "Bible",
+	"price": 50.00,
+	"stock": 10,
+	"tagIds": [8],
+	"category_id": 6
+}
+
+{
+	"tag_name": "Paperback"
+}
